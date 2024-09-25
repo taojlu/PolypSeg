@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="119.23.69.95" id="120c9d23-3f29-4525-a665-1d62eba1e8bd" keyPath="C:\Users\ThinkPad X1\.ssh\key\gaobin.key" port="52522" nameFormat="DESCRIPTIVE" username="tun" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

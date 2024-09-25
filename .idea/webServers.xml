@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b2bb9ce9-5b15-4ae2-b963-b8a7d193f45e" name="gaobin">
+        <fileTransfer accessType="SFTP" host="119.23.69.95" port="52522" sshConfigId="120c9d23-3f29-4525-a665-1d62eba1e8bd" sshConfig="tun@119.23.69.95:52522 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
