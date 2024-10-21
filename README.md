@@ -1,3 +1,3 @@
 Multi-branch Fusion For Polyp Segmentation
 
-The dataset is available \href{https://github.com/DengPingFan/PraNet}{here}.
+The dataset is available at https://github.com/DengPingFan/PraNet.
